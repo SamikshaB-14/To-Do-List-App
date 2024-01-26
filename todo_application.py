@@ -1,4 +1,3 @@
-#Button(root, text="Check", command=show_selected_categories).pack() #7d0b3b
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
